@@ -1,4 +1,4 @@
-# EmployeeManagementSystem
+# EmployeeManagement
 
 # Introduction
 
